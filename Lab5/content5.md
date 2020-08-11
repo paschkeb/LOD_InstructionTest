@@ -1,2 +1,2 @@
 5 Instructions for lab number 5
-2
+3

@@ -1,2 +1,2 @@
 3 Instructions for lab number 3
-2
+3
