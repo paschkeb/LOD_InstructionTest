@@ -1,2 +1,2 @@
 2 Instructions for lab number 2
-9
+10
